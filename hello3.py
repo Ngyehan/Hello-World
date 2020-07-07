@@ -1,2 +1,2 @@
-# this is the side branch 2
+# now this is the side branch 2
 print(' hello kitty 3')
